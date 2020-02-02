@@ -1,0 +1,4 @@
+Orta 5-10dk Corba 10.0
+Az 10-20dk Biftek 28.0
+Cok 10-20dk RioTavuk 11.5
+Orta 10-20dk Bilal 5.0
